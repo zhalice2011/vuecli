@@ -2,7 +2,7 @@
     "apps":[
         {
             "name":"vuecli",
-            "script":"run start",
+            "script":"start",
             "env":{
                 "COMMON_VARIABLE":"true"
             },
