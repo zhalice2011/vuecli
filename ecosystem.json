@@ -2,7 +2,7 @@
     "apps":[
         {
             "name":"vuecli",
-            "script":"app",
+            "script":"./app.js",
             "env":{
                 "COMMON_VARIABLE":"true"
             },
